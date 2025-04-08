@@ -9,7 +9,7 @@
 <!--滑行字体效果-->  
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=5E2EC0E9&background=52DAA200&center=true&vCenter=true&width=435&height=100&lines=Give+Me+Five;Let's+Do+It;%E6%84%BF%E4%BD%A0%E5%87%BA%E8%B5%B0%E5%8D%8A%E7%94%9F%EF%BC%8C%E5%BD%92%E6%9D%A5%E4%BB%8D%E6%98%AF%E5%B0%91%E5%B9%B4)
 
-<img align="right" width="200" height="200" src="http://bucketpicture.19950628.xyz/picture/2025/Souvenir.jpg" />
+<img align="right" width="2550" height="250" src="http://bucketpicture.19950628.xyz/picture/2025/Souvenir.jpg" />
 <p><strong>Working：</strong>天天叫老师，烦死了，又不是不会开车，叫陈师傅</p>
 <p><strong>Life：</strong>缝缝补补是一年，一年又一年</p>
 <p><strong>Enjoy：</strong>Trance + Techno + House</p>
