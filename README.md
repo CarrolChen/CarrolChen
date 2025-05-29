@@ -14,9 +14,9 @@
 <p><strong>Life：</strong>缝缝补补是一年，一年又一年</p>
 <p><strong>Enjoy：</strong>Trance + Techno + House</p>
 <p><strong>Marriage：</strong>还在找老伴儿</p>
-<p><strong>Learning：</strong>最新刚学会玩Docker emm... 建议人手必学</p>
-<p><strong>Prepare：</strong>陈师傅五一要出趟远门</p>
-<p><strong>Mood：X</strong></p>
+<p><strong>Learning：</strong>pytest/unittest studying</p>
+<p><strong>Prepare：</strong>正在看四轮子，年底开上自己的车车</p>
+<p><strong>Mood：Nice</strong></p>
 
 
 <!--GitHub资料奖杯部分-->
