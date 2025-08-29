@@ -49,7 +49,7 @@
 -->
 
 <!--Github统计信息部分-->
-![CarrolChen's GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=CarrolChen&exclude_repo=CarrolChen.github.io&show_icons=true&card_width=800&theme=shades-of-purple)
+![CarrolChen's GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=CarrolChen
 
 <!--加载贪吃蛇效果-->
 <picture>
