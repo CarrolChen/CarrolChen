@@ -19,9 +19,6 @@
 <p><strong>Mood：Nice</strong></p>
 
 
-<!--GitHub资料奖杯部分-->
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&column=-1&margin-h=20&margin-w=20&no-bg=false)
-
 <!--小样式-->
 <div>
   <a href="https://blog.19950628.xyz">
