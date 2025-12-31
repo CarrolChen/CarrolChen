@@ -33,7 +33,7 @@
 <div>&nbsp;</div>
       
 <!--仓库卡片部分-->
-![CarrolChen's GitHub Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CarrolChen&show_owner=true&repo=nps&description_lines_count=3&theme=yeblu)
+![CarrolChen's GitHub Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CarrolChen&show_owner=true&repo=github_proxy_cloudflare_01&description_lines_count=3&theme=yeblu)
 ![CarrolChen's GitHub Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CarrolChen&show_owner=true&repo=Sing-box&description_lines_count=3&theme=ambient_gradient)
 ![CarrolChen's GitHub Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CarrolChen&show_owner=true&repo=Web-Navigation-Page&description_lines_count=3&theme=rose)
 ![CarrolChen's GitHub Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CarrolChen&show_owner=true&repo=nginx-proxy-manager-zh&description_lines_count=3&theme=solarized-light)
