@@ -289,7 +289,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>step0766/SimpleKaruzi</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -343,7 +343,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>arch3rPro/1Panel-Appstore</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">1Panel-第三方应用商店(运维监控、免费大模型API、Nas工具、容器管理)</div>
@@ -396,7 +396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lesnolie/movecar</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚗 智能挪车通知系统 - 基于 Cloudflare Workers，支持实时位置共享和多推送服务</div>
@@ -449,7 +449,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TuTouPower/mimo-code-proxy</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MiMo 免费通道 → OpenAI/Anthropic 兼容接口，多代理出口轮询负载均衡，每个出口独立指纹+JWT。Python stdlib only。</div>
@@ -496,7 +496,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>conversun/fnos-apps</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">飞牛 fnOS NAS 第三方应用商店 — 115 款自托管应用的 .fpk 安装包 | Plex, Emby, Jellyfin, qBittorrent, Immich, Sonarr, Radarr, Vaultwarden, ZeroClaw AI, OpenClaw 等 | 每日自动同步上游版本</div>
@@ -599,7 +599,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jun 2026, 23:00:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Jun 2026, 01:51:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
