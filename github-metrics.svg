@@ -289,7 +289,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>multica-ai/andrej-karpathy-skills</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.</div>
@@ -330,7 +330,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zhuima/awesome-cloudflare</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.</div>
@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lesnolie/movecar</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚗 智能挪车通知系统 - 基于 Cloudflare Workers，支持实时位置共享和多推送服务</div>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TuTouPower/mimo-code-proxy</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MiMo 免费通道 → OpenAI/Anthropic 兼容接口，多代理出口轮询负载均衡，每个出口独立指纹+JWT。Python stdlib only。</div>
@@ -575,7 +575,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jun 2026, 06:54:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Jun 2026, 08:22:13 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
