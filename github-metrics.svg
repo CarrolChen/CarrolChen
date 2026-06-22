@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TuTouPower/mimo-code-proxy</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MiMo 免费通道 → OpenAI/Anthropic 兼容接口，多代理出口轮询负载均衡，每个出口独立指纹+JWT。Python stdlib only。</div>
@@ -575,7 +575,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jun 2026, 05:58:27 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jun 2026, 07:21:27 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
