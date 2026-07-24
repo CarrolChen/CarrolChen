@@ -289,7 +289,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>maillab/cloud-mail</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail</div>
@@ -342,7 +342,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dougmaitelli/DockDash</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -396,7 +396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>maxjb-xyz/reverb</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The self-hosted music app that knows what you have, and knows how to get what you don't.</div>
@@ -449,7 +449,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ripienaar/free-for-dev</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev</div>
@@ -544,7 +544,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Ronchy2000/epic-freebies-helper</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automatically claim Epic Games weekly free titles with GitHub Actions and GLM-powered captcha solving.</div>
@@ -594,7 +594,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jul 2026, 00:35:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jul 2026, 02:14:30 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
