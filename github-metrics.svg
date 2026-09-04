@@ -289,7 +289,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huiliyi37/Tianshu-harness</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">天枢 (Tianshu) 是一个基于harness工程的终端编程智能体运行时（Tui X Gui），针对DeepSeek V4 做了前缀缓存工程优化（长会话实测稳态命中率 97–99%）和深度适配。它跳出了传统 AI 编程助手把大模型仅当成“工具”的局限，基于认知虚拟机 (CVM)、自感知层和信息素（Stigmergy）自衰减记忆构建，让 AI 成为有独立判断与认知防护的“开发伙伴”。</div>
@@ -581,7 +581,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Sept 2026, 01:59:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Sept 2026, 04:29:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
